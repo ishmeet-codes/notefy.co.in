@@ -58,7 +58,7 @@ Usage
 - Navigating the Magazine: Use the navigation arrows or pagination controls at the bottom of each page to move through the magazine.
 ## Deployment
 - The project is hosted on Vercel. Any updates pushed to the GitHub repository will automatically trigger a redeployment.
-- [Vercel Deployment Link:](magazine-gndec-three.vercel.app)
+- [Vercel Deployment Link:](https://magazine-gndec-three.vercel.app/)
 ## Future Enhancements
 - Dynamic Content Loading: Implement  fetch API to load content dynamically without refreshing the page.
 - Comment and Feedback System: Allow users to leave comments or feedback on articles directly within the magazine.
