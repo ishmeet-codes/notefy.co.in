@@ -18,20 +18,21 @@ The objective of this project is to create a lightweight, web-based alternative 
 ## Project Structure
 
 ```plaintext
-college-magazine/
-│
-├── index.html             # Main entry point of the application
-├── css/
-│   ├── styles.css         # Styles for the magazine pages
-│   └── responsive.css     # Responsive design styles
-├── js/
-│   ├── script.js          # Main JavaScript file for interactivity
-│   └── pagination.js      # JavaScript file for pagination logic
-├── images/
-│   ├── cover.jpg          # Cover image of the magazine
-│   └── page1.jpg          # Images for magazine pages
-│   └── page2.jpg          # ...
-└── README.md              # Project documentation
+Magazine-GNDEC 
+| 
+|-README.md 
+|-LICENSE 
+|-index.html \\ Everything will be rendered here  
+|-📁assets/ 
+|   |-style.css \\ CSS file for index.html 
+|   |-script.js \\ Javascript funtioning 
+|   |-📁pages/ \\ All the pages of magazine will be added in this folder with name as pagenumber.png 
+|   |   |-1.png 
+|   |   |-2.png 
+|   |   |-...png 
+|   |-📁images/ \\ All the images except pages will be added in this folder 
+|   |   |-logos 
+|   |   |-any other image 
 ```
 
 ## Features
