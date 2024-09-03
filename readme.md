@@ -1,6 +1,6 @@
 Documentation
 
-- **Problem** :- Making the workflow for the college magazine to reduce the server load.
+- **Problem** :- Making the lighter workflow for the college magazine to reduce the server load.
   
 -----
 
